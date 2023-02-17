@@ -292,3 +292,7 @@ h6 {
 #footer .social-links {
   margin: 0 0 40px 0;
 }
+
+.card-body{
+  padding-bottom: 40px;
+}
